@@ -40,7 +40,7 @@ Set up login credentials and verified that the account appeared under the IT OU.
 
 Screenshot included:
 
-![Oscaruser](.png)
+![Oscaruser](oscar_user.png)
 
 Step 4 - Create Security Group:
 Created a new global security group named "IT Admins" under the IT organizational unit using ADUC.
