@@ -31,9 +31,8 @@ IT
 
 Screenshots included:
 
-Creating the Headquarters OU
-
-Viewing all three OUs (Headquarters, Sales, and IT) in ADUC
+![Creating Headquarters OU](screenshots/headquarters_ou.png)
+![All OUs Created](screenshots/all_ous.png)
 
 Step 3 - Create User Account:
 Created a new user named "Oscar" within the IT organizational unit using the GUI wizard in ADUC.
