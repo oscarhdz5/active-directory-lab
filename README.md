@@ -48,9 +48,8 @@ Added the user "Oscar" to both the IT OU and the IT Admins group to simulate adm
 
 Screenshots included:
 
-IT Admins group creation window
-
-Group membership list showing Oscar as a member of both IT and IT Admins
+![IT Admins Group Created](it_admins_group.png)
+![Group Membership Verification](membership_verification.png)
 
 Step 5 - Verification:
 Used the ADUC interface to verify:
