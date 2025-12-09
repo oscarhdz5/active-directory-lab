@@ -32,7 +32,7 @@ IT
 Screenshots included:
 
 ![Creating Headquarters OU](headquarters_ou.png)
-![All OUs Created](all_ous.png)
+![All OUs Created](all-ous.png)
 
 Step 3 - Create User Account:
 Created a new user named "Oscar" within the IT organizational unit using the GUI wizard in ADUC.
